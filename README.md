@@ -18,12 +18,12 @@ Origine : [Le hash qui rit](https://hackropole.fr/fr/challenges/crypto/fcsc2023-
 > http://localhost
 
 #### tentez 
-> nc le-hash-qui-rit.cyrhades.fr:4000
+> nc le-hash-qui-rit.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------
