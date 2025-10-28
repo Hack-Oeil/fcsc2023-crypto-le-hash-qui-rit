@@ -7,7 +7,7 @@ Fichiers:
 - [le-hash-qui-rit.py](le-hash-qui-rit.py)
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Le hash qui rit](https://hackropole.fr/fr/challenges/crypto/fcsc2023-crypto-le-hash-qui-rit/)
 
